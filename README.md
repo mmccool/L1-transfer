@@ -1,5 +1,5 @@
 # Shadowed LEO to L1 Transfer
-Compute and plot rampled bang-bang transfer flight path from LEO to L1 while remaining in the shadow of a planetary-scale solar shade, allowing for configurable transfer times and g-force limits.
+Compute and plot ramped bang-bang (e.g. boost-coast-decelerate) transfer flight path from LEO to L1 while remaining in the shadow of a planetary-scale solar shade, allowing for configurable transfer times and g-force limits.
 
 Initial code generated in ChapGPT 5 using the following prompts:
 
